@@ -1,0 +1,28 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sde-rahul-tak/namste-react#readme",
+  "bugs": {
+    "url": "https://github.com/sde-rahul-tak/namste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sde-rahul-tak/namste-react.git"
+  },
+  "license": "ISC",
+  "author": "rahul",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start" :"parcel index.html",
+    "build" : "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
