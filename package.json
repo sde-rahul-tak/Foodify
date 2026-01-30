@@ -2,14 +2,6 @@
   "name": "namste-react",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/sde-rahul-tak/namste-react#readme",
-  "bugs": {
-    "url": "https://github.com/sde-rahul-tak/namste-react/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sde-rahul-tak/namste-react.git"
-  },
   "license": "ISC",
   "author": "rahul",
   "type": "commonjs",
