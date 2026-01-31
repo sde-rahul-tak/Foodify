@@ -61,3 +61,20 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.filter-btn{
+    padding: 30px;
+}
+.filter-btn>button{
+    padding: 20px;
+    width: 200px;
+    background-color: rgba(12, 75, 46, 0.915);
+    border: none;
+    font-size:16px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    cursor: pointer;    
+}
+.filter-btn>button:hover{
+    border-radius: 30px;
+    transition: 0.5s;
+}
